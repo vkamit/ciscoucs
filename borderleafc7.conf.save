@@ -1,0 +1,21 @@
+[[inputs.snmp]]
+ agents = [ "10.64.10.24:161"]
+ version = 3
+ sec_name = "snmpuser"
+ auth_protocol = "SHA"
+ auth_password = "$nmP_P@$s4GK#DC"
+ sec_level = "authPriv"
+ priv_protocol = "AES"
+ priv_password = "$nmP_P@$s4GK#DC"
+ interval = "20s"
+ timeout = "10s"
+ retries = 3
+
+name = "BL"
+  [[inputs.snmp.field]]
+    name = "hostname"
+    oid = "SNMPv2-MIB::sysName.0"
+
+[[inputs.snmp.field]]
+    name = "BL_CPU"
+    oid = "SNMPv2-SMI::mib-2.47.1.1.1.1.2.21592"
