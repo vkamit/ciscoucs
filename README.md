@@ -22,5 +22,7 @@ Get Grafana https://grafana.com/get/
 Installation Guides https://grafana.com/docs/grafana/latest/installation/
 
 Monitor cisco ucs devices Temperture/Humidity (cpu / chassis)
+![image](https://user-images.githubusercontent.com/30586376/117647924-3d3f1380-b1ab-11eb-843a-6e920448fa04.png)
+
 Monitor FI interface error count 
 Monitor APC PDU power utilization and consumption.
