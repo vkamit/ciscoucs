@@ -5,3 +5,4 @@ Hardware Monitoring on Grafana Cisco UCS/ APC PDU/ FI/Cisco Switches config.
 Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data driven culture:
 
 **Visualize**: Fast and flexible client side graphs with a multitude of options. Panel plugins offer many different ways to visualize metrics and logs.
+**Dynamic Dashboards:** Create dynamic & reusable dashboards with template variables that appear as dropdowns at the top of the dashboard.
