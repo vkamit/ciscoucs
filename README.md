@@ -20,3 +20,7 @@ Grafana allows you to query, visualize, alert on and understand your metrics no 
 Get Grafana https://grafana.com/get/
 
 Installation Guides https://grafana.com/docs/grafana/latest/installation/
+
+Monitor cisco ucs devices Temperture/Humidity (cpu / chassis)
+Monitor FI interface error count 
+Monitor APC PDU power utilization and consumption.
