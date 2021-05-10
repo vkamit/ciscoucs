@@ -15,3 +15,6 @@ Grafana allows you to query, visualize, alert on and understand your metrics no 
 **5.-Alerting: Visually** define alert rules for your most important metrics. Grafana will continuously evaluate and send notifications to systems like Slack, PagerDuty, VictorOps, OpsGenie.
 
 **6.-Mixed Data Sources:** Mix different data sources in the same graph! You can specify a data source on a per-query basis. This works for even custom datasources.
+
+
+Get Grafana https://grafana.com/get/
